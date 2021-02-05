@@ -13,10 +13,10 @@ This prompt allows to execute commands. When the commands are successful they di
 
 The blockchain prompt must display (see example below):
 
-  a [ character
-  a first letter that indicates the state of synchronization of the chain:
-  "s" if the blockchain is synchronized
-  "-" if the blockchain is not synchronized.
-  n number of nodes in the chain.
+  a [ character, 
+  a first letter that indicates the state of synchronization of the chain:, 
+  "s" if the blockchain is synchronized, 
+  "-" if the blockchain is not synchronized., 
+  n number of nodes in the chain., 
   the "]> " string (with a space)
   
